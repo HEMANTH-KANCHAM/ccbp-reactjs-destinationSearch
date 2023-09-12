@@ -1,0 +1,10 @@
+.item-container {
+  margin: 30px 15px;
+  list-style-type: none;
+}
+.item-img {
+  width: 300px;
+}
+.item-name {
+  font-size: 20px;
+}
